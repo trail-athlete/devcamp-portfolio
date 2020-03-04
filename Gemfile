@@ -46,3 +46,4 @@ gem 'devise', '~> 4.7', '>= 4.7.1'
 
 gem 'bootstrap', '~> 4.4.1'
 gem 'jquery-rails'
+gem 'barathlete_view_tool', git: 'https://github.com/BarAthlete/barathlete_view_tool'
