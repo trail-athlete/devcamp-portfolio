@@ -44,8 +44,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'friendly_id', '~> 5.1.0'
 gem 'devise', '~> 4.7', '>= 4.7.1'
 
-gem 'bootstrap', '~> 4.4.1'
-gem 'jquery-rails'
 gem 'barathlete_view_tool', git: 'https://github.com/BarAthlete/barathlete_view_tool'
 gem 'petergate', '~> 2.0', '>= 2.0.1'
 gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.5'
